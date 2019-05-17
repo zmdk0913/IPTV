@@ -14,6 +14,8 @@ http://cdn.nexttvnet.ru/hlsl/23/kbs_world/playlist.m3u8
 http://121.156.46.79/live/10661.m3u8?sid=60720
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="South Korea(한국어)",Animax 한국어
 http://121.156.46.79/live/10521.m3u8?sid=60720
+#EXTINF:-1 logo="https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:VubI754.png" group-title="South Korea(한국어)",Anione 한국어
+http://121.156.46.79/live/10641.m3u8?sid=60720
 #EXTINF:-1 logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/aniplus/pos/aniplus_300.png" group-title="South Korea(한국어)", Aniplus 한국어
 http://121.156.46.79/live/10341.m3u8?sid=60720
 #EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" group-title="South Korea(한국어)", 채널 A
